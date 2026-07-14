@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Nikshayy08/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0457-circular-array-loop](https://github.com/Nikshayy08/Leetcode/tree/master/0457-circular-array-loop) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nikshayy08/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -21,4 +22,12 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Nikshayy08/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0457-circular-array-loop](https://github.com/Nikshayy08/Leetcode/tree/master/0457-circular-array-loop) |
+## Hash Table
+|  |
+| ------- |
+| [0457-circular-array-loop](https://github.com/Nikshayy08/Leetcode/tree/master/0457-circular-array-loop) |
 <!---LeetCode Topics End-->
