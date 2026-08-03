@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Nikshayy08/Leetcode/tree/master/0054-spiral-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikshayy08/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Nikshayy08/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0457-circular-array-loop](https://github.com/Nikshayy08/Leetcode/tree/master/0457-circular-array-loop) |
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikshayy08/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Nikshayy08/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Nikshayy08/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
