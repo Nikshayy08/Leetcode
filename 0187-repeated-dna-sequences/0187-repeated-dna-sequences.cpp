@@ -1,25 +1,35 @@
 class Solution {
 public:
     vector<string> findRepeatedDnaSequences(string s) {
+        if(s.length()<10){
+            return {};
+        }
         unordered_set<string> seen; // to store all the strings
         unordered_set<string> set; // to store all the answers
         vector<string> ans;
         string str;
-        for(int i=0 ; i<s.length() ; i++){
+        int i=0;
+        if(s.length()>=10){
             str = "";
-            if(i+10<=s.length()){
-                for(int j=i ; j<i+10 ; j++){
-                    str.push_back(s[j]);
-                }
+            while(i<10){
+                str.push_back(s[i]);
+                i++;
             }
+        }
+        seen.insert(str);
+        while(i<s.length()){
+            str.push_back(s[i]);
+            str.erase(0,1); // str.erase(position, number_of_characters);
             if(seen.count(str)){
                 set.insert(str);
             }
-            if(str!="")
+            else if(str!=""){
                 seen.insert(str);
+            }
+            i++;
         }
-        for(auto str : set){
-            ans.push_back(str);
+        for(auto st : set){
+            ans.push_back(st);
         }
         return ans;
     }
