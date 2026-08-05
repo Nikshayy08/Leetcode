@@ -5,7 +5,7 @@ public:
         unordered_set<string> set; // to store all the answers
         vector<string> ans;
         string str;
-        for(int i=0 ; i<=s.length() ; i++){
+        for(int i=0 ; i<s.length() ; i++){
             str = "";
             if(i+10<=s.length()){
                 for(int j=i ; j<i+10 ; j++){
