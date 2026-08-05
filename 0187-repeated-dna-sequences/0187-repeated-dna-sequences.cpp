@@ -11,7 +11,7 @@ public:
         int i=0;
         if(s.length()>=10){
             str = "";
-            while(i<10){
+            while(i<10){     // the first window of ssize 10
                 str.push_back(s[i]);
                 i++;
             }
@@ -23,9 +23,9 @@ public:
             if(seen.count(str)){
                 set.insert(str);
             }
-            else if(str!=""){
+            // else if(str!=""){
                 seen.insert(str);
-            }
+            // }
             i++;
         }
         for(auto st : set){
