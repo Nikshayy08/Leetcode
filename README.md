@@ -27,6 +27,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Nikshayy08/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Nikshayy08/Leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Nikshayy08/Leetcode/tree/master/0056-merge-intervals) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikshayy08/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Nikshayy08/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0457-circular-array-loop](https://github.com/Nikshayy08/Leetcode/tree/master/0457-circular-array-loop) |
@@ -108,9 +109,14 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Nikshayy08/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Nikshayy08/Leetcode/tree/master/0056-merge-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikshayy08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikshayy08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Nikshayy08/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
