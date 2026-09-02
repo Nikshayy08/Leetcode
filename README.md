@@ -12,6 +12,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Nikshayy08/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0457-circular-array-loop](https://github.com/Nikshayy08/Leetcode/tree/master/0457-circular-array-loop) |
+| [0986-interval-list-intersections](https://github.com/Nikshayy08/Leetcode/tree/master/0986-interval-list-intersections) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nikshayy08/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -33,6 +34,7 @@
 | [0457-circular-array-loop](https://github.com/Nikshayy08/Leetcode/tree/master/0457-circular-array-loop) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikshayy08/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Nikshayy08/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0986-interval-list-intersections](https://github.com/Nikshayy08/Leetcode/tree/master/0986-interval-list-intersections) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nikshayy08/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikshayy08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikshayy08/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Nikshayy08/Leetcode/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Nikshayy08/Leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
