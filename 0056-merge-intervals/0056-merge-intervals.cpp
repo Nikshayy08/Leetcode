@@ -35,15 +35,33 @@ public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         sort(intervals.begin(),intervals.end());
         vector<vector<int>> merged;
-        for(int i=0 ; i<intervals.size() ; i++){
-            // check overlap 
-            if(merged.empty() || merged.back()[1]<intervals[i][0]){  // if its the first interval || if intervals doesnt overlap
-                merged.push_back(intervals[i]);
+        for(auto interval : intervals){
+            // check overlap
+            if(merged.empty() || merged.back()[1]<interval[0]){
+                // add interval to the vector
+                merged.push_back(interval);
             }
-            else{ // overlap exist
-                merged.back()[1] = max(merged.back()[1],intervals[i][1]);
+            else{  // overlap exist
+                merged.back()[1] = max(merged.back()[1],interval[1]);
             }
         }
         return merged;
     }
 };
+
+
+
+
+
+// sort(intervals.begin(),intervals.end());
+//         vector<vector<int>> merged;
+//         for(int i=0 ; i<intervals.size() ; i++){
+//             // check overlap 
+//             if(merged.empty() || merged.back()[1]<intervals[i][0]){  // if its the first interval || if intervals doesnt overlap
+//                 merged.push_back(intervals[i]);
+//             }
+//             else{ // overlap exist
+//                 merged.back()[1] = max(merged.back()[1],intervals[i][1]);
+//             }
+//         }
+//         return merged;
