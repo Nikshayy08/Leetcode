@@ -38,6 +38,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nikshayy08/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikshayy08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikshayy08/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3169-count-days-without-meetings](https://github.com/Nikshayy08/Leetcode/tree/master/3169-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0049-group-anagrams](https://github.com/Nikshayy08/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Nikshayy08/Leetcode/tree/master/0056-merge-intervals) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikshayy08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3169-count-days-without-meetings](https://github.com/Nikshayy08/Leetcode/tree/master/3169-count-days-without-meetings) |
 ## Greedy
 |  |
 | ------- |
