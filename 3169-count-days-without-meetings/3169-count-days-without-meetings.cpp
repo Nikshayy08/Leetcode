@@ -11,7 +11,6 @@ public:
                 merged.back()[1] = max(merged.back()[1],meetings[i][1]);
             }
         }
-        int daysCount = 0;
         int meetingDays = 0;
         for(int i=0 ; i<merged.size() ; i++){
             meetingDays += merged[i][1] - merged[i][0] +1;
