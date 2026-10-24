@@ -8,6 +8,7 @@ public:
         unordered_map<int,int> map;
         long long sum = 0;
 
+        // Build first window
         for(int i=0 ; i<k ; i++){
             map[nums[i]]++;
             if(map[nums[i]]>1) isDup++;
@@ -17,16 +18,19 @@ public:
             maxSum = max(sum,maxSum);
         }
 
+        // slide window
         for(int i=k ; i<nums.size() ; i++){
             int add = nums[i];
             int remove = nums[i-k];
 
+            // add new element
             map[add]++;
             if(map[add]>1){
                 isDup++;
             }
             sum += add;
 
+            //remove new element
             if(map[remove]>1){
                 isDup--;
             }
