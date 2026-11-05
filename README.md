@@ -53,6 +53,7 @@
 | [0049-group-anagrams](https://github.com/Nikshayy08/Leetcode/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Nikshayy08/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Nikshayy08/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Nikshayy08/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikshayy08/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/Nikshayy08/Leetcode/tree/master/0457-circular-array-loop) |
 | [0904-fruit-into-baskets](https://github.com/Nikshayy08/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -86,6 +87,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikshayy08/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Nikshayy08/Leetcode/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/Nikshayy08/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Nikshayy08/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikshayy08/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Matrix
 |  |
@@ -120,6 +122,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Nikshayy08/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Nikshayy08/Leetcode/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/Nikshayy08/Leetcode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nikshayy08/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikshayy08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3169-count-days-without-meetings](https://github.com/Nikshayy08/Leetcode/tree/master/3169-count-days-without-meetings) |
