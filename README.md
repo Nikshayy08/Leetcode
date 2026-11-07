@@ -38,6 +38,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Nikshayy08/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0457-circular-array-loop](https://github.com/Nikshayy08/Leetcode/tree/master/0457-circular-array-loop) |
 | [0643-maximum-average-subarray-i](https://github.com/Nikshayy08/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0731-my-calendar-ii](https://github.com/Nikshayy08/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0904-fruit-into-baskets](https://github.com/Nikshayy08/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nikshayy08/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Nikshayy08/Leetcode/tree/master/0986-interval-list-intersections) |
@@ -76,11 +77,13 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikshayy08/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0731-my-calendar-ii](https://github.com/Nikshayy08/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikshayy08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikshayy08/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0731-my-calendar-ii](https://github.com/Nikshayy08/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikshayy08/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
 |  |
@@ -140,4 +143,16 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Nikshayy08/Leetcode/tree/master/0986-interval-list-intersections) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Nikshayy08/Leetcode/tree/master/0731-my-calendar-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Nikshayy08/Leetcode/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Nikshayy08/Leetcode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
